@@ -1,0 +1,12 @@
+<select onchange="this.style.color=this.options[this.selectedIndex].style.color"> 
+<option style="color:yellow">Item 1</option> 
+<option style="color:red">Item 2</option> 
+</select>
+
+
+
+////////
+
+select any option and option color change !
+
+https://www.codeproject.com/Questions/475105/dropdownplusselectedplusvalueplusbackgroundpluscol
